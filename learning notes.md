@@ -1,5 +1,5 @@
 
-Github note taking: (github markdown)[https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
+Github note taking: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 
 ### Libraries
@@ -22,7 +22,7 @@ Regardless of which library you choose, you will need FFmpeg installed on your s
 - **Windows:** Download FFmpeg from the official website and add its `bin` directory to your system's PATH.
 
 Can also be used to compress video files
-- (compressing videos with ffmpeg)[https://dev.to/m4cs/compressing-videos-easily-on-windows-w-ffmpeg-and-registry-files-5fin]
+- compressing videos with ffmpeg > https://dev.to/m4cs/compressing-videos-easily-on-windows-w-ffmpeg-and-registry-files-5fin
 	- 
 ### Types of video compression
 
