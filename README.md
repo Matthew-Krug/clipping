@@ -9,4 +9,4 @@ If you're reading this and have experience in this and want to see a student gro
 
 # Goals of this project
 - [ ] Learn
-- [ ] 
+- [ ] Different video lengths assigned to different keys (f8 - 45s, f9 - 90s)
